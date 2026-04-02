@@ -1,5 +1,5 @@
-import Head from 'next/head';
-import './page.css';
+import Head from "next/head";
+import "./page.css";
 
 export default function Home() {
   return (
@@ -12,7 +12,7 @@ export default function Home() {
         <h1>GoToGreen Gitex Contact</h1>
         <div className="spinner"></div>
         <div className="status">In Progress</div>
-        <p>We're working on something amazing. Stay tuned!</p>
+        <p>We&apos;re working on something amazing. Stay tuned!</p>
       </main>
     </>
   );
