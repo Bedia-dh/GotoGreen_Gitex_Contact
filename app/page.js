@@ -12,7 +12,8 @@ export default function Home() {
         <h1>GoToGreen Gitex Contact</h1>
         <div className="spinner"></div>
         <div className="status">In Progress</div>
-        <p>We&apos;re working on something amazing. Stay tuned!</p>
+        {/* eslint-disable-next-line react/no-unescaped-entities */}
+        <p>We're working on something amazing. Stay tuned!</p>
       </main>
     </>
   );
