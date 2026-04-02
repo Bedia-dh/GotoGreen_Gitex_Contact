@@ -1,0 +1,13 @@
+{
+  "name": "gitex-contact",
+  "version": "1.0.0",
+  "description": "Gitex Contact - In Progress Page",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["gitex", "contact", "in-progress"],
+  "author": "",
+  "license": "MIT"
+}
